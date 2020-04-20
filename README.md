@@ -1,2 +1,1 @@
-# middle_out
-CS242 Final Project
+# CS242 Final Project
