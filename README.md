@@ -5,3 +5,6 @@ https://codelabs.developers.google.com/codelabs/upload-update-data-kaggle-api/in
 
 ## Reading Datasets from Kaggle
 https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-colab-ea682569851a
+
+## Kaggle Dataset
+https://www.kaggle.com/alecmeade/cs242-final
