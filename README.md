@@ -1,8 +1,16 @@
-## Small Sample Overfitting for DNN Lossy Video Compression
-Authors: Alec Meade & Daniel Evagelakos
-Class: Computing at Scale By H.T. Kung (CS242)
+# Small Sample Overfitting for DNN Lossy Video Compression
+### Computing at Scale (CS-242) By HT Kung
 
-### Dataset and Data Retrieval
+### Authors
+* **Alec Meade** 
+* **Daniel Evangelakos** 
+
+
+### Files
+* File 1: Description
+* File 2: Description
+
+### Video Data
 
 ### Instructions for uploading new datasets to kaggle.
 https://codelabs.developers.google.com/codelabs/upload-update-data-kaggle-api/index.html?index=..%2F..index#3
