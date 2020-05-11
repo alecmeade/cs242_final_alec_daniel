@@ -1,4 +1,4 @@
-# Small Sample Overfitting for DNN Lossy Video Compression
+# ML Based Video Compression Through Over Fitting
 ## Computing at Scale (CS-242) By HT Kung
 
 ### Authors
