@@ -37,7 +37,7 @@ https://www.kaggle.com/alecmeade/cs242-final). The six datasets are as follows:
 
 
 ### References
-* [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding(https://arxiv.org/pdf/1510.00149.pdf)
+* [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
 * [Deep Generative Video Compression](https://papers.nips.cc/paper/9127-deep-generative-video-compression.pdf)
 * [Image and Video Compression with Neural Networks: A Review](https://arxiv.org/pdf/1904.03567.pdf)
 * [Distilling Knowledge From a Deep Pose Regressor Network](http://www.cs.ox.ac.uk/files/11078/ICCV19_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network.pdf)
