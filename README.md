@@ -11,4 +11,9 @@ https://www.kaggle.com/alecmeade/cs242-final
 
 
 # References
-[Deep Generative Video Compression](https://papers.nips.cc/paper/9127-deep-generative-video-compression.pdf)
+* [Deep Generative Video Compression](https://papers.nips.cc/paper/9127-deep-generative-video-compression.pdf)
+* [Image and Video Compression with Neural Networks: A Review](https://arxiv.org/pdf/1904.03567.pdf)
+* [Distilling Knowledge From a Deep Pose Regressor Network](http://www.cs.ox.ac.uk/files/11078/ICCV19_Distilling_Knowledge_From_a_Deep_Pose_Regressor_Network.pdf)
+* [Lossy Image Compression With Autoencoders](https://arxiv.org/pdf/1703.00395v1.pdf)
+* [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+* [An End-to-End Compression Framework Based on Convolutional Neural Networks](https://arxiv.org/pdf/1708.00838v1.pdf)
