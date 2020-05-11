@@ -8,3 +8,7 @@ https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-col
 
 ## Kaggle Dataset
 https://www.kaggle.com/alecmeade/cs242-final
+
+
+# References
+[Deep Generative Video Compression](https://papers.nips.cc/paper/9127-deep-generative-video-compression.pdf)
