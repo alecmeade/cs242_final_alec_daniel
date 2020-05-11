@@ -11,15 +11,37 @@
 * File 2: Description
 
 ### Video Data
+The video data used to train the models used in this project comes from six individual uncompressed videos that are commonly used for testing video compression quality. They were selected to have varying degrees of detail, noise, motion in various parts of the image. All data used in this project has been uploaded to [Kaggle and can be found here](
+https://www.kaggle.com/alecmeade/cs242-final). The six datasets are as follows:
 
-### Instructions for uploading new datasets to kaggle.
-https://codelabs.developers.google.com/codelabs/upload-update-data-kaggle-api/index.html?index=..%2F..index#3
+1. **Beauty**: 
+* Stationary camera and black background
+* Human face and movement
 
-### Reading Datasets from Kaggle
-https://medium.com/analytics-vidhya/how-to-fetch-kaggle-datasets-into-google-colab-ea682569851a
+2. **Honey Bee**
+* Varied color palette
+* Stationary camera and background
+* Isolated section of high velocity movement
 
-### Kaggle Dataset
-https://www.kaggle.com/alecmeade/cs242-final
+3. **Nature**
+* Muted color palette 
+* Lots of high frequency edges 
+* Non-linear camera motion
+
+4. **Ready Set Go**
+* Stationary camera and background
+* Lots of unique movement
+
+5. **Shake N Dry**
+* Stationary camera and background
+* Almost full screen distortion function 
+
+
+6. **Yacht**
+Changing low frequency background
+Linear moving object in the front
+
+
 
 
 ### References
