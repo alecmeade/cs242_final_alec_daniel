@@ -13,7 +13,7 @@ The files in this repository split the video compression pipeline into two stage
 
 ### Video Data
 The video data used to train the models used in this project comes from six individual uncompressed videos that are commonly used for testing video compression quality. They were selected to have varying degrees of detail, noise, motion in various parts of the image. All data used in this project has been uploaded to [Kaggle and can be found here](
-https://www.kaggle.com/alecmeade/cs242-final). The six datasets are as follows:
+https://www.kaggle.com/alecmeade/cs242-final). To download the data from Kaggle you will need to create a directory in google drive at "My Drive\Kaggle" and "My Drive\Kaggle\Datasets". Furthermore, within the kaggle directory you must store kaggle api key as seen in this [example](https://medium.com/@yvettewu.dw/tutorial-kaggle-api-google-colaboratory-1a054a382de0). The six datasets are as follows:
 
 1. **Beauty**: 
   * Stationary camera and black background
