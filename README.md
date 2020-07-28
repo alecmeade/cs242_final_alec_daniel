@@ -1,4 +1,4 @@
-# ML Based Video Compression Through Over Fitting
+# Video Compression using UNets + Deep Compression
 ## Computing at Scale (CS-242) By HT Kung
 
 ### Authors
